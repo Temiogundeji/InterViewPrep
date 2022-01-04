@@ -22,6 +22,10 @@ class Stack {
     return this.stackArray[this.topElement];
   }
 
+  search() {
+    //Implement search feature
+  }
+
   //Operations
   //Add new item to the stack
   push(element) {
